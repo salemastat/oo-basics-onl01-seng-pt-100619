@@ -1,5 +1,8 @@
 class Shoe 
   def initialize(brand)
   end 
-  def pro
+  
+  def properties
+    
+    
 end   
