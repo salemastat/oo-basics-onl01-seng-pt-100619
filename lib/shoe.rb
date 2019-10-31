@@ -5,5 +5,6 @@ class Shoe
   def properties
     @properties 
   end   
+  
     
 end   
