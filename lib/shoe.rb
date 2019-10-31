@@ -10,7 +10,7 @@ class Shoe
     "Your shoe is as good as new!"
   end  
   
-  def new
+  def shoe.condition(new)
      shoe.condition == "old"
   end
 end
