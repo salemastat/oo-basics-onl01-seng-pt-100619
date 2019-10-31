@@ -7,6 +7,8 @@ class Shoe
   end
  
   def cobble
+    "Your shoe is as good as new!"
+  def new 
     
   end
 end
